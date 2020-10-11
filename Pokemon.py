@@ -20,6 +20,7 @@ def story2():
         'Je hebt keuze uit: Rillaboom[1], Inteleon[2], Cinderace[3], Grimmsnarl[4],'
         ' Corviknight[5], Obstagoon[6], Perrserker[7]'
         ))-1
+    return storyline2
 
 def story3():
     storyline3 = print(
